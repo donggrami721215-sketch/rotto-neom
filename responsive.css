@@ -1,1 +1,1 @@
-html,body{overflow-x:hidden}.tabs{width:min(1120px,calc(100% - 2rem));max-width:none;contain:inline-size}
+html,body{overflow-x:hidden}html.small-text{font-size:14px}.tabs{width:min(1120px,calc(100% - 2rem));max-width:none;contain:inline-size}
